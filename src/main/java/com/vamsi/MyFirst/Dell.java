@@ -14,6 +14,7 @@ public class Dell implements Laptop {
 	public void getBrandAndPrice() {
 		System.out.println("Dell");
 		p.getDellPrice();
+		System.out.println("Vamsi");
 
 	}
 
